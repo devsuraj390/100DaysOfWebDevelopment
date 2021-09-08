@@ -27,7 +27,7 @@ The goal here will be to have a solid understanding of  **HTML**, **CSS** &
 Before we start our daily progress, let me give you the tools & resources which 
 I will be using/follwing for the daily learning during the whole challenge.
 
-**Tools:**
+**Tools:**\
 Code Editor: [Visual Studio Code](https://code.visualstudio.com/)\
 Browser: [Google Chrome](https://www.google.com/intl/en_in/chrome/) 
 
