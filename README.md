@@ -1,9 +1,8 @@
 
 # 100DaysOfWebDevelopment
 
-As the name suggest, this is the 100 Days Challenge to learn Web Development. 
-The goal here will be to have a solid understanding of  **HTML**, **CSS** &
-**JavaScript** by end of the challenge.
+As the name suggest, this is the 100 Days Challenge to learn Web Development. In this challenege, I will be focusing on the Frontend part of web development. Please note that this is not a guide to learn Front End technologies. This is only created for the sole purpose of practising Front end technologies such as **HTML**, **CSS** &
+**JavaScript** and draw a roadmap to go through these technologies.
 
 
 
