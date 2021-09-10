@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Form</title>
+  </head>
+  <body>
+    <h1>Forms</h1>
+    <h2>Different Input Types</h2>
+    <form action="" style="border: 1px solid gray; padding: 10px">
+      <input type="text" placeholder="Text input" />
+      <input type="password" placeholder="password" />
+      <input type="color" />
+      <input type="number" placeholder="Number" />
+      <input type="time" />
+    </form>
+
+    <h2>Input with label & Submit button</h2>
+    <form
+      action="./2_tables.html"
+      style="border: 1px solid gray; padding: 10px"
+    >
+      <p>
+        <label for="name">Name: </label>
+        <input type="text" id="name" name="username" />
+      </p>
+      <p>
+        <label for="password">Password: </label>
+        <input type="password" id="password" />
+      </p>
+      <p>
+        <label for="color">Choose a color: </label>
+        <input type="color" id="color" />
+      </p>
+      <p>
+        <label for="number">Enter Number</label>
+        <input type="number" id="number" placeholder="Number" />
+      </p>
+      <button type="submit">Go to Tables</button>
+      <button type="button">Normal Button(Wont go to table page.)</button>
+    </form>
+
+    <h2>Search anything to see on Google or Youtube below:</h3>
+      <form action="https://www.youtube.com/results">
+        <input type="text" placeholder="Search Youtube" name="search_query"/>
+        <button type="submit">Search Youtube</button>
+      </form><br><br>
+      <form action="https://www.google.com/search">
+        <input type="text" placeholder="Search Google" name="q"/>
+        <button type="submit">Search Google</button>
+      </form>
+      <hr>
+      <h2>Radio, Checkboxes, Dropdown</h2>
+      <form action="/test">
+        <p><input type="checkbox" name="agree" id="agree" value="Yes"> 
+        <label for="agree">I agree</label></p>
+
+        <p>Select your gender</p>
+        <p><input type="radio" name="gender" id="male" value="M">
+        <label for="male">Male</label>
+        <input type="radio" name="gender" id="female" value="F">
+        <label for="female">Female</label></p>
+        <label for="country">Select your country</label>
+        <select name="country" id="country">
+          <option value="IN">India</option>
+          <option value="US">USA</option>
+          <option value="UK">UK</option>
+        </select><br><br>
+        <button type="submit">Submit</button>
+      </form> <hr>
+
+      <h2>Range & TextArea</h2>
+       <p>
+         <label for="cheeseRange">Amount of Cheese: </label>
+         <input type="range" id="cheeseRange" min="1" max="10">
+       </p>
+       <p>
+         <label for="detail">Enter Details:</label><br>
+         <textarea name="" id="detail" cols="50" rows="5"></textarea>
+       </p>
+    
+  </body>
+</html>
