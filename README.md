@@ -37,10 +37,19 @@ Browser: [Google Chrome](https://www.google.com/intl/en_in/chrome/)
 
 - [Responsive Web Design | freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design/)
 
+
 ## Day #1: 
 * [The web and web standards](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/The_web_and_web_standards)
 * [Basics of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP)
 * [Getting started with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
 * [Front End Web Developer Roadmap on MDN](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer#getting_started)
 * [Browser developer tools](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools)
+
+
+## Day #2: 
+* [HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+* [The Input Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)
+* [HTML Table](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table)
+* [HTML Forms](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)
+* [Introduction to Semantic Elements](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
 
