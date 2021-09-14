@@ -1,0 +1,34 @@
+button {
+  color: brown;
+  background-color: cyan;
+}
+
+h1 {
+  color: red;
+}
+
+p {
+  color: green;
+}
+
+ul li {
+  color: blue;
+  list-style-type: none;
+}
+
+.special {
+  color: darkmagenta;
+  font-weight: bold;
+}
+
+li em {
+  color: rebeccapurple;
+}
+
+h1 + p {
+  font-size: 200%;
+}
+
+a:hover {
+  text-decoration: none;
+}
