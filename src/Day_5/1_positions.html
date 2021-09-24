@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>CSS Properties</title>
+  </head>
+  <body>
+    <h2>CSS Positons:</h2>
+
+    <section id="static">
+      <h2>Static: Normal flow doument.</h2>
+      <div></div>
+      <div id="middle"></div>
+      <div></div>
+    </section>
+
+    <section id="relative">
+      <h2>
+        Relative: relative to position where it would be in normal flow
+        document.
+      </h2>
+      <div></div>
+      <div id="middle"></div>
+      <div></div>
+    </section>
+
+    <section id="absolute">
+      <h2>
+        Absolute: element will be taken out of document and then positon
+        according to offset values such as top, left.(See ABSOLUTE box.)
+        Relative to parent.
+      </h2>
+      <div></div>
+      <div id="middle" class="red-box"></div>
+      <div></div>
+    </section>
+
+    <section id="fixed">
+      <h2>
+        Fixed: Taken out of document but fixed to root container. Try scrolling.
+        Blue box will be fixed.
+      </h2>
+      <div></div>
+      <div id="blue"></div>
+      <div></div>
+    </section>
+  </body>
+</html>

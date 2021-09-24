@@ -1,0 +1,10 @@
+h1 {
+  background-color: burlywood;
+  display: inline;
+}
+
+span {
+  background-color: coral;
+  display: block;
+  border: 1px solid blueviolet;
+}
