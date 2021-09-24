@@ -76,7 +76,5 @@ Browser: [Google Chrome](https://www.google.com/intl/en_in/chrome/)
 - [CSS - Web Fonts](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts)
 - [20 Best Google Web Fonts](https://www.awwwards.com/20-best-web-fonts-from-google-web-fonts-and-font-face.html)
 
-## Day #5:
+## Day #6:
 
-- [CSS - position](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
-- [CSS - transiton](https://developer.mozilla.org/en-US/docs/Web/CSS/transition)
