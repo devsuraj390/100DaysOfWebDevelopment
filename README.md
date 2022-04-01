@@ -54,6 +54,7 @@ Browser: [Google Chrome](https://www.google.com/intl/en_in/chrome/)
 ## Day #3:
 
 - [Getting started with CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Getting_started)
+- [CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 - [How CSS works](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_works)
 - [CSS selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors#reference_table_of_selectors)
 - [The box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
